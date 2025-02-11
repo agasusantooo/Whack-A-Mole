@@ -22,6 +22,7 @@ Partial Class Form2
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form2))
         pbRefresh = New PictureBox()
         pbMole1 = New PictureBox()
@@ -35,6 +36,7 @@ Partial Class Form2
         lblTime = New Label()
         Label1 = New Label()
         lblHighScore = New Label()
+        TimerGame = New Timer(components)
         CType(pbRefresh, ComponentModel.ISupportInitialize).BeginInit()
         CType(pbMole1, ComponentModel.ISupportInitialize).BeginInit()
         CType(pbMole2, ComponentModel.ISupportInitialize).BeginInit()
@@ -50,9 +52,10 @@ Partial Class Form2
         pbRefresh.BackColor = Color.Transparent
         pbRefresh.BackgroundImage = CType(resources.GetObject("pbRefresh.BackgroundImage"), Image)
         pbRefresh.BackgroundImageLayout = ImageLayout.Stretch
-        pbRefresh.Location = New Point(12, 12)
+        pbRefresh.Location = New Point(10, 10)
+        pbRefresh.Margin = New Padding(2, 2, 2, 2)
         pbRefresh.Name = "pbRefresh"
-        pbRefresh.Size = New Size(97, 88)
+        pbRefresh.Size = New Size(81, 73)
         pbRefresh.TabIndex = 0
         pbRefresh.TabStop = False
         ' 
@@ -61,9 +64,10 @@ Partial Class Form2
         pbMole1.BackColor = Color.Transparent
         pbMole1.BackgroundImage = CType(resources.GetObject("pbMole1.BackgroundImage"), Image)
         pbMole1.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole1.Location = New Point(60, 282)
+        pbMole1.Location = New Point(50, 235)
+        pbMole1.Margin = New Padding(2, 2, 2, 2)
         pbMole1.Name = "pbMole1"
-        pbMole1.Size = New Size(134, 127)
+        pbMole1.Size = New Size(112, 106)
         pbMole1.TabIndex = 1
         pbMole1.TabStop = False
         ' 
@@ -72,9 +76,10 @@ Partial Class Form2
         pbMole2.BackColor = Color.Transparent
         pbMole2.BackgroundImage = CType(resources.GetObject("pbMole2.BackgroundImage"), Image)
         pbMole2.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole2.Location = New Point(311, 210)
+        pbMole2.Location = New Point(259, 175)
+        pbMole2.Margin = New Padding(2, 2, 2, 2)
         pbMole2.Name = "pbMole2"
-        pbMole2.Size = New Size(134, 127)
+        pbMole2.Size = New Size(112, 106)
         pbMole2.TabIndex = 2
         pbMole2.TabStop = False
         ' 
@@ -83,9 +88,10 @@ Partial Class Form2
         pbMole3.BackColor = Color.Transparent
         pbMole3.BackgroundImage = CType(resources.GetObject("pbMole3.BackgroundImage"), Image)
         pbMole3.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole3.Location = New Point(186, 401)
+        pbMole3.Location = New Point(155, 334)
+        pbMole3.Margin = New Padding(2, 2, 2, 2)
         pbMole3.Name = "pbMole3"
-        pbMole3.Size = New Size(134, 127)
+        pbMole3.Size = New Size(112, 106)
         pbMole3.TabIndex = 3
         pbMole3.TabStop = False
         ' 
@@ -94,9 +100,10 @@ Partial Class Form2
         pbMole4.BackColor = Color.Transparent
         pbMole4.BackgroundImage = CType(resources.GetObject("pbMole4.BackgroundImage"), Image)
         pbMole4.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole4.Location = New Point(457, 345)
+        pbMole4.Location = New Point(381, 288)
+        pbMole4.Margin = New Padding(2, 2, 2, 2)
         pbMole4.Name = "pbMole4"
-        pbMole4.Size = New Size(134, 127)
+        pbMole4.Size = New Size(112, 106)
         pbMole4.TabIndex = 4
         pbMole4.TabStop = False
         ' 
@@ -105,9 +112,10 @@ Partial Class Form2
         pbMole5.BackColor = Color.Transparent
         pbMole5.BackgroundImage = CType(resources.GetObject("pbMole5.BackgroundImage"), Image)
         pbMole5.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole5.Location = New Point(48, 555)
+        pbMole5.Location = New Point(40, 462)
+        pbMole5.Margin = New Padding(2, 2, 2, 2)
         pbMole5.Name = "pbMole5"
-        pbMole5.Size = New Size(134, 127)
+        pbMole5.Size = New Size(112, 106)
         pbMole5.TabIndex = 5
         pbMole5.TabStop = False
         ' 
@@ -116,9 +124,10 @@ Partial Class Form2
         pbMole6.BackColor = Color.Transparent
         pbMole6.BackgroundImage = CType(resources.GetObject("pbMole6.BackgroundImage"), Image)
         pbMole6.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole6.Location = New Point(479, 492)
+        pbMole6.Location = New Point(399, 410)
+        pbMole6.Margin = New Padding(2, 2, 2, 2)
         pbMole6.Name = "pbMole6"
-        pbMole6.Size = New Size(134, 127)
+        pbMole6.Size = New Size(112, 106)
         pbMole6.TabIndex = 6
         pbMole6.TabStop = False
         ' 
@@ -127,9 +136,10 @@ Partial Class Form2
         pbMole7.BackColor = Color.Transparent
         pbMole7.BackgroundImage = CType(resources.GetObject("pbMole7.BackgroundImage"), Image)
         pbMole7.BackgroundImageLayout = ImageLayout.Stretch
-        pbMole7.Location = New Point(324, 649)
+        pbMole7.Location = New Point(270, 541)
+        pbMole7.Margin = New Padding(2, 2, 2, 2)
         pbMole7.Name = "pbMole7"
-        pbMole7.Size = New Size(134, 127)
+        pbMole7.Size = New Size(112, 106)
         pbMole7.TabIndex = 7
         pbMole7.TabStop = False
         ' 
@@ -139,9 +149,10 @@ Partial Class Form2
         lblScore.BackColor = Color.Transparent
         lblScore.Font = New Font("Felix Titling", 35.1428566F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         lblScore.ForeColor = Color.White
-        lblScore.Location = New Point(48, 161)
+        lblScore.Location = New Point(40, 134)
+        lblScore.Margin = New Padding(2, 0, 2, 0)
         lblScore.Name = "lblScore"
-        lblScore.Size = New Size(89, 96)
+        lblScore.Size = New Size(77, 83)
         lblScore.TabIndex = 8
         lblScore.Text = "0"
         ' 
@@ -151,9 +162,10 @@ Partial Class Form2
         lblTime.BackColor = Color.Transparent
         lblTime.Font = New Font("Felix Titling", 35.1428566F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         lblTime.ForeColor = Color.White
-        lblTime.Location = New Point(565, 148)
+        lblTime.Location = New Point(471, 123)
+        lblTime.Margin = New Padding(2, 0, 2, 0)
         lblTime.Name = "lblTime"
-        lblTime.Size = New Size(89, 96)
+        lblTime.Size = New Size(77, 83)
         lblTime.TabIndex = 9
         lblTime.Text = "0"
         ' 
@@ -163,9 +175,10 @@ Partial Class Form2
         Label1.BackColor = Color.Transparent
         Label1.Font = New Font("Felix Titling", 11.1428576F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label1.ForeColor = Color.White
-        Label1.Location = New Point(253, 69)
+        Label1.Location = New Point(211, 58)
+        Label1.Margin = New Padding(2, 0, 2, 0)
         Label1.Name = "Label1"
-        Label1.Size = New Size(192, 32)
+        Label1.Size = New Size(164, 27)
         Label1.TabIndex = 10
         Label1.Text = "High Score"
         ' 
@@ -175,19 +188,24 @@ Partial Class Form2
         lblHighScore.BackColor = Color.Transparent
         lblHighScore.Font = New Font("Felix Titling", 35.1428566F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         lblHighScore.ForeColor = Color.White
-        lblHighScore.Location = New Point(311, 101)
+        lblHighScore.Location = New Point(259, 84)
+        lblHighScore.Margin = New Padding(2, 0, 2, 0)
         lblHighScore.Name = "lblHighScore"
-        lblHighScore.Size = New Size(89, 96)
+        lblHighScore.Size = New Size(77, 83)
         lblHighScore.TabIndex = 11
         lblHighScore.Text = "0"
         ' 
+        ' TimerGame
+        ' 
+        TimerGame.Interval = 1000
+        ' 
         ' Form2
         ' 
-        AutoScaleDimensions = New SizeF(12F, 30F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
         BackgroundImageLayout = ImageLayout.Stretch
-        ClientSize = New Size(676, 820)
+        ClientSize = New Size(563, 683)
         Controls.Add(lblHighScore)
         Controls.Add(Label1)
         Controls.Add(lblTime)
@@ -201,6 +219,7 @@ Partial Class Form2
         Controls.Add(pbMole1)
         Controls.Add(pbRefresh)
         DoubleBuffered = True
+        Margin = New Padding(2, 2, 2, 2)
         Name = "Form2"
         Text = "Whack a Mole!"
         CType(pbRefresh, ComponentModel.ISupportInitialize).EndInit()
@@ -227,4 +246,5 @@ Partial Class Form2
     Friend WithEvents lblTime As Label
     Friend WithEvents Label1 As Label
     Friend WithEvents lblHighScore As Label
+    Friend WithEvents TimerGame As Timer
 End Class

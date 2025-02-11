@@ -16,3 +16,41 @@ D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\refin
 D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.pdb
 D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.genruntimeconfig.cache
 D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\ref\Whack  A Mole.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Form1.resources
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Form2.resources
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Resources.resources
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.vbproj.GenerateResource.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.AssemblyInfoInputs.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.AssemblyInfo.vb
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.vbproj.CoreCompileInputs.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.sourcelink.json
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\refint\Whack  A Mole.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.pdb
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.exe
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.deps.json
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.runtimeconfig.json
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.dll
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.pdb
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.genruntimeconfig.cache
+D:\1. Materi Kuliah\Sem 6\Pemrograman Desktop\Minggu 2\Tugas\Whack-A-Mole\obj\Debug\net8.0-windows\ref\Whack  A Mole.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.exe
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.deps.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.runtimeconfig.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\bin\Debug\net8.0-windows\Whack  A Mole.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Form1.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Form2.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Resources.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.vbproj.GenerateResource.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.AssemblyInfoInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.AssemblyInfo.vb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.vbproj.CoreCompileInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.sourcelink.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\refint\Whack  A Mole.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\Whack  A Mole.genruntimeconfig.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Whack A Mole\Whack-A-Mole\obj\Debug\net8.0-windows\ref\Whack  A Mole.dll

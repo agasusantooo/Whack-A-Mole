@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sekolah\\ProgDesk\\HOL Pertemuan 2\\Whack  A Mole\\Whack  A Mole.vbproj": {}
+    "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Whack A Mole\\Whack-A-Mole\\Whack  A Mole.vbproj": {}
   },
   "projects": {
-    "D:\\Sekolah\\ProgDesk\\HOL Pertemuan 2\\Whack  A Mole\\Whack  A Mole.vbproj": {
+    "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Whack A Mole\\Whack-A-Mole\\Whack  A Mole.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sekolah\\ProgDesk\\HOL Pertemuan 2\\Whack  A Mole\\Whack  A Mole.vbproj",
+        "projectUniqueName": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Whack A Mole\\Whack-A-Mole\\Whack  A Mole.vbproj",
         "projectName": "Whack  A Mole",
-        "projectPath": "D:\\Sekolah\\ProgDesk\\HOL Pertemuan 2\\Whack  A Mole\\Whack  A Mole.vbproj",
+        "projectPath": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Whack A Mole\\Whack-A-Mole\\Whack  A Mole.vbproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Sekolah\\ProgDesk\\HOL Pertemuan 2\\Whack  A Mole\\obj\\",
+        "outputPath": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Whack A Mole\\Whack-A-Mole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
