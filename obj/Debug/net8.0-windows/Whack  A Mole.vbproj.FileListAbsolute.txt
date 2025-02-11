@@ -1,0 +1,18 @@
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\bin\Debug\net8.0-windows\Whack  A Mole.exe
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\bin\Debug\net8.0-windows\Whack  A Mole.deps.json
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\bin\Debug\net8.0-windows\Whack  A Mole.runtimeconfig.json
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\bin\Debug\net8.0-windows\Whack  A Mole.dll
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\bin\Debug\net8.0-windows\Whack  A Mole.pdb
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Form1.resources
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Form2.resources
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack__A_Mole.Resources.resources
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.vbproj.GenerateResource.cache
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.AssemblyInfoInputs.cache
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.AssemblyInfo.vb
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.vbproj.CoreCompileInputs.cache
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.dll
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\refint\Whack  A Mole.dll
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.pdb
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\Whack  A Mole.genruntimeconfig.cache
+D:\Sekolah\ProgDesk\HOL Pertemuan 2\Whack  A Mole\obj\Debug\net8.0-windows\ref\Whack  A Mole.dll
